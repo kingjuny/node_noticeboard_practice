@@ -1,0 +1,18 @@
+{
+  "name": "notice_board_project",
+  "version": "1.0.0",
+  "description": "[**[트리스티의 Node.js 바닐라 자바스크립트 게시판 프로젝트에 오신 여러분을 환영합니다!]**](https://tristy.tistory.com/)   로그인 없는 게시판 만들기 프로젝트   꼭 필요한 부트스트랩 CSS만 적용하였습니다.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1"
+  },
+  "devDependencies": {}
+}
